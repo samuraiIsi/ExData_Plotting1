@@ -112,3 +112,18 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+## Submission Files
+
+The repository root also contains the submission artifacts for this project:
+
+- `plot1.R`, `plot2.R`, `plot3.R`, `plot4.R`
+- `plot1.png`, `plot2.png`, `plot3.png`, `plot4.png`
+- `common.R`
+- `make_plots.R`
+
+Run the full set of scripts from the repository root with:
+
+```r
+Rscript make_plots.R
+```
+
